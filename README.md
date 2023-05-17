@@ -194,7 +194,7 @@ Thank you again for choosing Hook Botnet. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**|
+|**$ 2000 - LIFETIME**|**$ 5000 - SOURCE**|
 
 
 
@@ -203,7 +203,7 @@ Thank you again for choosing Hook Botnet. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**|
+|**$ 2000 - LIFETIME**|**$ 5000 - SOURCE**|
 
 
 
