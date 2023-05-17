@@ -198,7 +198,9 @@ Thank you again for choosing Hook Botnet. We look forward to serving you.
 
 ##### SEND ONLY TETHER (TRC20) TO THIS ADDRESS
 
-|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**| 
+
+|--|--|
+|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**|
 
 
 
