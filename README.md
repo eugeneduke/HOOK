@@ -192,17 +192,17 @@ Thank you again for choosing Hook Botnet. We look forward to serving you.
 
 ##### SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.
 
-|**~~$ 350 - 1 MONTH~~**  |**$ 650 - 2 MONTH**|
+|**~~$ 600 - 1 MONTH~~**  |**$ 1200 - 2 MONTH**|
 |--|--|
-|**$ 1000 - LIFETIME**|**$ 3500 - SOURCE**|
+|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**|
 
 
 
 ##### SEND ONLY TETHER (TRC20) TO THIS ADDRESS
 
-|**~~$ 350 - 1 MONTH~~**  |**$ 650 - 2 MONTH**|
+|**~~$ 600 - 1 MONTH~~**  |**$ 1200 - 2 MONTH**|
 |--|--|
-|**$ 1000 - LIFETIME**|**$ 3500 - SOURCE**|** 
+|**$ 2000 - LIFETIME**|**$ 7000 - SOURCE**| 
 
 
 
