@@ -177,7 +177,7 @@ Thank you for choosing Hook Botnet. We appreciate your interest in our services.
 1. Github: Visit our repository on Github and follow the instructions to complete your purchase.
 2. Telegram: Contact us directly through our Telegram channel to initiate the purchase process. Our team will guide you through the necessary steps.
 3. Make the payment using the provided payment methods.
-4. Once the payment is completed, kindly send the proof of payment to [Email](mailto:) or contact us via [Telegram](https://t.me/androidbotnethook).
+4. Once the payment is completed, kindly send the proof of payment to [Email](mailto:) or contact us via [Telegram](https://t.me/androidhookbotnet).
 5. Upon verifying the payment, we will promptly provide you with your credentials.
 
 Please note that we take your privacy and security seriously. All transactions and communications will be treated with the utmost confidentiality.
