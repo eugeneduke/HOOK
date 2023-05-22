@@ -7,7 +7,7 @@
 
   
 
-[HOOK Botnet](https://t.me/androidbotnethook) is the sole responsibility of the user. The developer is not liable for any misuse, illegal activities, or damages caused by the use of this tool. The user is responsible for using this tool in a legal and ethical manner, adhering to all applicable laws and regulations. By using this tool, the user agrees to assume full responsibility for their actions and any potential consequences resulting from the use of the HOOK Botnet.
+[HOOK Botnet](https://t.me/androidhookbotnet) is the sole responsibility of the user. The developer is not liable for any misuse, illegal activities, or damages caused by the use of this tool. The user is responsible for using this tool in a legal and ethical manner, adhering to all applicable laws and regulations. By using this tool, the user agrees to assume full responsibility for their actions and any potential consequences resulting from the use of the HOOK Botnet.
 
 ![IMG_5720](https://github.com/eugeneduke/HOOK/assets/133839878/4e652199-9692-4293-b86e-adc232a6350c)
 
@@ -213,5 +213,5 @@ Thank you again for choosing Hook Botnet. We look forward to serving you.
 
 
 ## Telegram:
-- [Hook botnet channel](https://t.me/androidbotnethook)
+- [Hook botnet channel](https://t.me/androidhookbotnet)
 
