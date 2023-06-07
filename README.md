@@ -132,4 +132,4 @@ Thank you again for choosing HOOK Botnet. We look forward to serving you.
 
 ## Channels:
 - [Telegram Channel](https://t.me/androidhookbotnet)
-- [Youtube Channel](https://www.youtube.com/@HOOKBotnet)
+- [Youtube Channel](https://youtube.com/@HOOKMARKETPLACE)
