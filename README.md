@@ -120,7 +120,7 @@ Thank you again for choosing HOOK Botnet. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 2000 - 2 MONTHS**|**$ 10000 - SOURCE**|
+|**$2,000 - 2 MONTHS**|**$10,000 - SOURCE**|
 
 ##### SEND ONLY TETHER (TRC20) TO THIS ADDRESS
 ###### TSJ7qUU1HXk6JGfu538X3jqEpt9zro2cwF
@@ -128,7 +128,7 @@ Thank you again for choosing HOOK Botnet. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 2000 - 2 MONTHS**|**$ 10000 - SOURCE**|
+|**$2,000 - 2 MONTHS**|**$10,000 - SOURCE**|
 
 ## Channels:
 - [Telegram Channel](https://t.me/androidhookbotnet)
